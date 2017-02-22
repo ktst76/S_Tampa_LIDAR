@@ -12,5 +12,9 @@ During the summer of 2015 the Tampa area received heavy rainfall compared to sea
   
  ![Ballast Point Looking West](IMG_2610.JPG)
  
+The transportation issues that resulted from the flooding, which occurred during the middle of a workday - led to a normal commute of 15 minutes turning into a commute of 45 minutes in search of a route that wasn't flooded.  That event provided the impetus to either locate data or maps that may show routes that would be less likely to be flooded, or create maps to fill the gap in information.
  
- 
+# Objective
+Using publicly available LIDAR data, build a terrain model that provides high fidelity ground elevation data.  Fidelity should enable modeling of water depth in inches or cm.  
+## LIDAR, what's LIDAR? 
+**LI**ght **D**etection **A**nd **R**anging is a survey method that utilizes a laser sensor to build a 3-D model of the terrain or object based on the returned laser energy. 
