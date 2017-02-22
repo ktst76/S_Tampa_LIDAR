@@ -26,4 +26,4 @@ Warm colors reflect returns that are at or near ground level, a darker cool colo
 
 ![Live Oak Ground View](IMG_4233.JPG)
 
-
+The ground based photograph was taken in February when the Oak was missing a majority of leaf cover, which would be an ideal time to collect LIDAR data with limited vegetation impacts. 
