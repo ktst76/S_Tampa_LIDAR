@@ -27,3 +27,11 @@ Warm colors reflect returns that are at or near ground level, a darker cool colo
 ![Live Oak Ground View](IMG_4233.JPG)
 
 The ground based photograph was taken in February when the Oak was missing a majority of leaf cover, which would be an ideal time to collect LIDAR data with limited vegetation impacts. 
+
+#Procedure
+
+Eleven publicly available LIDAR datasets were downloaded from the USGS National Map Viewer (1).  This data was collected in July and August of 2007.  The LIDAR files were processed using the LAStools (2) software suite in order to create a terrain model of the ground and buildings in the Ballast Point area. Following creation of the terrain model, the dataset was imported into the SAGA-GIS (3) program.  Within SAGA the model was 'flooded' at six inch (15 cm) steps from 3 feet to 12 feet (1-4 m) above current sea level. 
+
+#Results
+![Ballast Point](looped.gif)
+
