@@ -28,12 +28,17 @@ Warm colors reflect returns that are at or near ground level, a darker cool colo
 
 The ground based photograph was taken in February when the Oak was missing a majority of leaf cover, which would be an ideal time to collect LIDAR data with limited vegetation impacts. 
 
-#Procedure
+# Procedure
 
 Eleven publicly available LIDAR datasets were downloaded from the USGS National Map Viewer (1).  This data was collected in July and August of 2007.  The LIDAR files were processed using the LAStools (2) software suite in order to create a terrain model of the ground and buildings in the Ballast Point area. Following creation of the terrain model, the dataset was imported into the SAGA-GIS (3) program.  Within SAGA the model was 'flooded' at six inch (15 cm) steps from 3 feet to 12 feet (1-4 m) above current sea level. The resulting images from each flood step were then exported into Adobe Creative Suite to facilitate display in Google Earth. 
 
-#Results
+# Results
+
 The figure below examines sea level ranges from four feet to seven feet six inches (above current).  Within each frame the water depth is color coded to a fixed range.
 ![Ballast Point](looped.gif)
 
+A visualization covering the entire study area (3.5 to 7.5 feet above current) can be found in the following YouTube video:
+https://www.youtube.com/watch?v=W1C75yHVH7A
+
+Google Earth files with full resolution overlays are listed below:
 
