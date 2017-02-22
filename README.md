@@ -60,6 +60,9 @@ This project will continue to map both the sea level flooding risk, and the prec
 
 # Sources and Tools:
 USGS National Map: https://viewer.nationalmap.gov/basic/
+
 Specific LIDAR files: USGS Lidar Point Cloud (LPC) FL_HillsboroughCo_2007_000258-260,280-283,302-305
+
 LAStools: http://www.cs.unc.edu/~isenburg/lastools/
+
 SAGA-GIS: http://www.saga-gis.org/en/index.html
