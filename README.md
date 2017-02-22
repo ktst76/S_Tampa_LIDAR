@@ -30,8 +30,10 @@ The ground based photograph was taken in February when the Oak was missing a maj
 
 #Procedure
 
-Eleven publicly available LIDAR datasets were downloaded from the USGS National Map Viewer (1).  This data was collected in July and August of 2007.  The LIDAR files were processed using the LAStools (2) software suite in order to create a terrain model of the ground and buildings in the Ballast Point area. Following creation of the terrain model, the dataset was imported into the SAGA-GIS (3) program.  Within SAGA the model was 'flooded' at six inch (15 cm) steps from 3 feet to 12 feet (1-4 m) above current sea level. 
+Eleven publicly available LIDAR datasets were downloaded from the USGS National Map Viewer (1).  This data was collected in July and August of 2007.  The LIDAR files were processed using the LAStools (2) software suite in order to create a terrain model of the ground and buildings in the Ballast Point area. Following creation of the terrain model, the dataset was imported into the SAGA-GIS (3) program.  Within SAGA the model was 'flooded' at six inch (15 cm) steps from 3 feet to 12 feet (1-4 m) above current sea level. The resulting images from each flood step were then exported into Adobe Creative Suite to facilitate display in Google Earth. 
 
 #Results
+The figure below examines sea level ranges from four feet to seven feet six inches (above current).  Within each frame the water depth is color coded to a fixed range.
 ![Ballast Point](looped.gif)
+
 
