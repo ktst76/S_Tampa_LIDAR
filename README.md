@@ -52,3 +52,14 @@ Google Earth files with full resolution overlays are listed below (note color co
  
 [Areas with 'new' water per step - the deepest blue represents 6+ inches](S_Tampa_LIDAR/Sea Level Rise - Water Build Up.kmz)
 
+# Discussion
+
+The resulting Google Earth files (Google Maps does not display graphics) allow a user to zoom into an area of interest that is not possible to display in a large study area.  Draft results of this work have resulted in a list of areas to focus on in order to provide interested parties the ability to find their way home from work, or to a school to pick up children.  Additional work will examine ponding from a constant amount of precipitation (without the effects of stormwater systems), which will present differing results than those presented at this time.
+
+This project will continue to map both the sea level flooding risk, and the precipitation ponding potential - to provide tools to make life in South Tampa less stressful.
+
+# Sources and Tools:
+USGS National Map: https://viewer.nationalmap.gov/basic/
+Specific LIDAR files: USGS Lidar Point Cloud (LPC) FL_HillsboroughCo_2007_000258-260,280-283,302-305
+LAStools: http://www.cs.unc.edu/~isenburg/lastools/
+SAGA-GIS: http://www.saga-gis.org/en/index.html
