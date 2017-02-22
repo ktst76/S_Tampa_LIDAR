@@ -17,4 +17,4 @@ The transportation issues that resulted from the flooding, which occurred during
 # Objective
 Using publicly available LIDAR data, build a terrain model that provides high fidelity ground elevation data.  Fidelity should enable modeling of water depth in inches or cm.  
 ## LIDAR, what's LIDAR? 
-**LI**ght **D**etection **A**nd **R**anging is a survey method that utilizes a laser sensor to build a 3-D model of the terrain or object based on the returned laser energy. 
+**LI**ght **D**etection **A**nd **R**anging is a survey method that utilizes a laser sensor to build a 3-D model of the terrain or object based on the returned laser energy.  LIDAR is not without its faults, vegetation can greatly hinder the ability of laser energy to strike the ground and return to the sensor.  The data used in this study was collected by an airborne sensor flying over the survey area during the peak of summer, when trees have full leaf cover.
