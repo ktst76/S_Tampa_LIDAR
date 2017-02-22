@@ -6,7 +6,7 @@ During the summer of 2015 the Tampa area received heavy rainfall compared to sea
 
  ![Ballast Point Looking East] (https://github.com/ktst76/S_Tampa_LIDAR/blob/files/IMG_2607.JPG)
  
- ![test] (https://ktst76.github.io/S_Tampa_LIDAR/blob/files/IMG_2607.JPG)
+ ![test] (https://ktst76.github.io/S_Tampa_LIDAR/files/IMG_2607.JPG)
  
  ![Ballast Point Looking West] (https://github.com/ktst76/S_Tampa_LIDAR/blob/files/IMG_2610.JPG)
  
