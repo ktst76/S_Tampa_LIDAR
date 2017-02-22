@@ -24,6 +24,6 @@ Using publicly available LIDAR data, build a terrain model that provides high fi
 
 Warm colors reflect returns that are at or near ground level, a darker cool color represents a higher return.  The large blue-ish green blob in the center of the image is a large Live Oak (a ground based photo of the oak is below).  Note the limited number of red or orange marks within the blue-green blob, the lack of those red or orange marks indicate that foliage interfered with laser energy.
 
-![Live Oak Ground View](IMG4233.JPG)
+![Live Oak Ground View](IMG_4233.JPG)
 
 
