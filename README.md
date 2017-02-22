@@ -40,6 +40,13 @@ The figure below examines sea level ranges from four feet to seven feet six inch
 A visualization covering the entire study area (3.5 to 7.5 feet above current) can be found in the following YouTube video:
 https://www.youtube.com/watch?v=W1C75yHVH7A
 
-Google Earth files with full resolution overlays are listed below:
+Google Earth files with full resolution overlays are listed below (note color code errors exist in overlays 8 feet or greater):
 
- [Color coded water depth from base sea level change, under 6 feet (2m)](S_Tampa_LIDAR/S Tampa Sea Level Base Levels Sub 6 Feet.kmz)
+[Water depth from base sea level change, under 6 feet (2m)](S_Tampa_LIDAR/S Tampa Sea Level Base Levels Sub 6 Feet.kmz)
+ 
+[Water depth from base sea level change, 6-9 feet (2-3m)](S_Tampa_LIDAR/SE Tampa Sea Level Rise 6-9 Feet.kmz)
+ 
+[Water depth from base sea level change, 9-12 feet (3-4m)](S_Tampa_LIDAR/SE Tampa Sea Level Rise 9-12 Feet.kmz)
+ 
+[Areas with 'new' water per step - the deepest blue represents 6+ inches](S_Tampa_LIDAR/Sea Level Rise - Water Build Up.kmz)
+
