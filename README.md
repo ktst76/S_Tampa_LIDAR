@@ -66,3 +66,5 @@ Specific LIDAR files: USGS Lidar Point Cloud (LPC) FL_HillsboroughCo_2007_000258
 LAStools: http://www.cs.unc.edu/~isenburg/lastools/
 
 SAGA-GIS: http://www.saga-gis.org/en/index.html
+
+All pictures are from the author's personal collection
